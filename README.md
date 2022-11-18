@@ -35,3 +35,5 @@ _Параграф 3_
 ```c#
    MyClass myClass = new();
 ```
+
+Мой строчный код `MyClass myClass = new();`c# идет в строке
