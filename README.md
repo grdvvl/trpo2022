@@ -47,3 +47,10 @@ _Параграф 3_
 ### Картинка
 
 ![MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Изображение")
+
+### Таблица
+
+| столбец 1 | столбец 2 |
+|-|-| 
+|1|2|
+|3|4|
