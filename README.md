@@ -36,4 +36,8 @@ _Параграф 3_
    MyClass myClass = new();
 ```
 
-Мой строчный код `MyClass myClass = new();` идет в строке
+Мой строчный код `MyClass myClass = new();`javascript идет в строке
+
+### Ссылка на сайт 
+
+Это ссылка на [сайт](https://rsu.edu.ru "Сайт университета")
